@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68900926093",
+    "project_id": "designway-f5334",
+    "storage_bucket": "designway-f5334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68900926093:android:c6e9ab047516653d4c28c4",
+        "android_client_info": {
+          "package_name": "com.example.designway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR2gNad6Qe_xZH02pFJ1bG-pqZqj9GNEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
